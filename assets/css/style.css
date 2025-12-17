@@ -24,4 +24,12 @@ body {
     padding: 20px;
 }
 
+.site-footer {
+    background-color: #222;
+    color: white;
+    text-align: center;
+    padding: 10px;
+}
+
+
 
