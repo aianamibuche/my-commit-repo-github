@@ -12,3 +12,11 @@
 body {
     font-family: 'Sixtyfour Convergence', sans-serif;
 }
+
+.site-header {
+    background-color: #222;
+    color: white;
+    padding: 20px;
+    text-align: center;
+}
+
